@@ -1,0 +1,8 @@
+{
+  "version": "1.4.0",
+  "installer": "https://github.com/mustafaeminof/bee-restaurant-releases/releases/download/v1.4.0/BeeRestaurant-Setup-1.4.0.exe",
+  "zip": "https://github.com/mustafaeminof/bee-restaurant-releases/releases/download/v1.4.0/BeeRestaurant-Windows.zip",
+  "releaseUrl": "https://github.com/mustafaeminof/bee-restaurant-releases/releases/tag/v1.4.0",
+  "tabletApkVersion": "1.0.1",
+  "publishedAt": "2026-08-07T10:52:00Z"
+}
