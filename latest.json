@@ -1,8 +1,11 @@
 {
-  "version": "1.7.0",
-  "installer": "https://github.com/mustafaeminof/bee-restaurant-releases/releases/download/v1.7.0/BeeRestaurant-Setup-1.7.0.exe",
-  "zip": "https://github.com/mustafaeminof/bee-restaurant-releases/releases/download/v1.7.0/BeeRestaurant-Windows.zip",
-  "releaseUrl": "https://github.com/mustafaeminof/bee-restaurant-releases/releases/tag/v1.7.0",
+  "version": "1.7.1",
+  "installer": "https://github.com/mustafaeminof/bee-restaurant-releases/releases/download/v1.7.1/BeeRestaurant-Setup-1.7.1.exe",
+  "installerZip": "https://github.com/mustafaeminof/bee-restaurant-releases/releases/download/v1.7.1/BeeRestaurant-Setup-1.7.1.zip",
+  "installerSha256": "53f7a4d4acec636794b303c138872983d7a463232ee92f9396243bef84dab3e0",
+  "installerSize": 34381742,
+  "zip": "https://github.com/mustafaeminof/bee-restaurant-releases/releases/download/v1.7.1/BeeRestaurant-Windows.zip",
+  "releaseUrl": "https://github.com/mustafaeminof/bee-restaurant-releases/releases/tag/v1.7.1",
   "tabletApkVersion": "1.0.5",
-  "publishedAt": "2026-11-15T19:35:23Z"
+  "publishedAt": "2026-11-15T22:30:00Z"
 }
