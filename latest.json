@@ -1,11 +1,11 @@
 {
-  "version": "1.8.0",
-  "installer": "https://github.com/mustafaeminof/bee-restaurant-releases/releases/download/v1.8.0/BeeRestaurant-Setup-1.8.0.exe",
-  "installerZip": "https://github.com/mustafaeminof/bee-restaurant-releases/releases/download/v1.8.0/BeeRestaurant-Setup-1.8.0.zip",
-  "installerSha256": "d8e3361df1391bce2dc72c9197005c051ee7e7ad32ab1f700eb3c6b02f8e53de",
-  "installerSize": 34388988,
-  "zip": "https://github.com/mustafaeminof/bee-restaurant-releases/releases/download/v1.8.0/BeeRestaurant-Windows.zip",
-  "releaseUrl": "https://github.com/mustafaeminof/bee-restaurant-releases/releases/tag/v1.8.0",
-  "tabletApkVersion": "1.0.5",
-  "publishedAt": "2026-11-22T11:08:11Z"
+  "version": "1.9.0",
+  "installer": "https://github.com/mustafaeminof/bee-restaurant-releases/releases/download/v1.9.0/BeeRestaurant-Setup-1.9.0.exe",
+  "installerZip": "https://github.com/mustafaeminof/bee-restaurant-releases/releases/download/v1.9.0/BeeRestaurant-Setup-1.9.0.zip",
+  "installerSha256": "9c4f8cbff3521d3ce98a6143934771922a9b843b6565466c034637b813270444",
+  "installerSize": 34551629,
+  "zip": "https://github.com/mustafaeminof/bee-restaurant-releases/releases/download/v1.9.0/BeeRestaurant-Windows.zip",
+  "releaseUrl": "https://github.com/mustafaeminof/bee-restaurant-releases/releases/tag/v1.9.0",
+  "tabletApkVersion": "1.9.0",
+  "publishedAt": "2026-11-24T10:55:35Z"
 }
